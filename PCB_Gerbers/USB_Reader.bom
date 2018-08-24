@@ -1,0 +1,32 @@
+### Module positions - created on Wed Jul 18 09:43:05 2018 ###
+### Printed by Pcbnew version kicad 4.0.5+dfsg1-4
+## Unit = inches, Angle = deg.
+## Side : top
+# Ref     Val                          Package                                 Digikey Part
+C1        10uF 25V                     TantalC_SizeD_EIA-7343_HandSoldering    
+C2        33uF 25V                     TantalC_SizeD_EIA-7343_HandSoldering    
+C3        0.1uF 50V                    C_0603_HandSoldering                    
+C4        0.1uF 50V                    C_0603_HandSoldering                    
+C5        20pF 50V                     C_0603_HandSoldering                    
+C6        0.1uF 50V                    C_0603_HandSoldering                    
+C7        20pF 50V                     C_0603_HandSoldering                    
+C8        0.1uF 50V                    C_0603_HandSoldering                    
+F1        Polyfuse 6V 1.5A             R_1206_HandSoldering                    NANOSMDC075F-2CT-ND  
+L1        Ferrite_Bead 2.5k            C_0603_HandSoldering                    445-2179-1-ND
+P1        Shrouded Header 2x5          0.100 Inch 
+P2        USB A Connector              Through Hole                            UE27AC54100-ND
+R1        100                          R_0603_HandSoldering                    
+R2        100                          R_0603_HandSoldering                    
+R3        10k                          R_0603_HandSoldering                    
+R4        33                           R_0603_HandSoldering                    
+R5        33                           R_0603_HandSoldering                    
+REF**     Symbol_OSHW-Logo_SilkScreen  Symbol_OSHW-Logo_SilkScreen             
+U1        LM1117_3V3                   TO-252-2Lead                            
+U2        74HC4050                     SO-16-N                                 
+U3        MAX3421E                     LQFP-32_5x5mm_Pitch0.5mm                    
+Y1        12 MHz                       FA-328_Crystal                          SER3683CT-ND
+Z1        ZENER_4_CHANNEL uClamp0504A  SOT-666                                 UCLAMP0504ACT-ND
+FID1      Fiducial                                                             
+FID2      Fiducial                                                             
+FID3      Fiducial                                                             
+## End
