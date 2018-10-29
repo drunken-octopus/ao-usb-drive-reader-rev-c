@@ -7,9 +7,9 @@ C1        10uF 25V                     TantalC_SizeD_EIA-7343_HandSoldering
 C2        33uF 25V                     TantalC_SizeD_EIA-7343_HandSoldering    
 C3        0.1uF 50V                    C_0603_HandSoldering                    
 C4        0.1uF 50V                    C_0603_HandSoldering                    
-C5        20pF 50V                     C_0603_HandSoldering                    
+C5        18pF 50V                     C_0603_HandSoldering                    
 C6        0.1uF 50V                    C_0603_HandSoldering                    
-C7        20pF 50V                     C_0603_HandSoldering                    
+C7        18pF 50V                     C_0603_HandSoldering                    
 C8        0.1uF 50V                    C_0603_HandSoldering                    
 F1        Polyfuse 6V 1.5A             R_1206_HandSoldering                    NANOSMDC075F-2CT-ND  
 L1        Ferrite_Bead 2.5k            C_0603_HandSoldering                    445-2179-1-ND
