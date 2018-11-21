@@ -306,7 +306,7 @@ L C C7
 U 1 1 5A820039
 P 7350 1200
 F 0 "C7" V 7550 1150 50  0000 L CNN
-F 1 "20pF" V 7200 1100 50  0000 L CNN
+F 1 "18pF" V 7200 1100 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603_HandSoldering" H 7388 1050 50  0001 C CNN
 F 3 "" H 7350 1200 50  0000 C CNN
 	1    7350 1200
@@ -317,7 +317,7 @@ L C C5
 U 1 1 5A820134
 P 6350 1200
 F 0 "C5" V 6550 1150 50  0000 L CNN
-F 1 "20pF" V 6200 1100 50  0000 L CNN
+F 1 "18pF" V 6200 1100 50  0000 L CNN
 F 2 "Capacitors_SMD:C_0603_HandSoldering" H 6388 1050 50  0001 C CNN
 F 3 "" H 6350 1200 50  0000 C CNN
 	1    6350 1200
@@ -974,4 +974,12 @@ Text Notes 600  7600 0    60   ~ 0
 NOTE - On the Archim schematic, the pin\nnumbers of SC2 (J13) are reversed as\nfollows:\n\nOn Archim Schematic   On USB Reader Schematic\nPin-10                            Pin-1\nPin-9                              Pin-2\nPin-8                              Pin-3\nPin-7                              Pin-4\nPin-6                              Pin-5\nPin-5                              Pin-6\nPin-4                              Pin-7\nPin-3                              Pin-8\nPin-2                              Pin-9\nPin-1                              Pin-10
 NoConn ~ 6500 3450
 NoConn ~ 2800 3400
+Text Notes 8000 5000 0    60   ~ 0
+REVISION HISTORY
+Text Notes 8000 5200 0    60   ~ 0
+REV. A  Initial Prototype
+Text Notes 8000 5500 0    60   ~ 0
+REV. B  Removed R2 from prototype design and\nrenumbered components.
+Text Notes 8000 5750 0    60   ~ 0
+REV. B  Changed value of C5 and C7 from 20pF to 18pF.\nBOM Updated, board remains REV. B.
 $EndSCHEMATC
