@@ -1,0 +1,27 @@
+# Ref     Val                          Package                                 Digikey Part
+
+C1        10uF 25V                     TantalC_SizeD_EIA-7343_HandSoldering
+C2        0.1uF 50V                    C_0603_HandSoldering
+C3        33uF 25V                     TantalC_SizeD_EIA-7343_HandSoldering    
+C4        0.1uF 50V                    C_0603_HandSoldering                    
+C5        0.1uF 50V                    C_0603_HandSoldering                    
+C6        0.1uF 50V                    C_0603_HandSoldering
+C7        0.1uF 50V                    C_0603_HandSoldering
+C8        0.1uF 50V                    C_0603_HandSoldering                    
+F1        Polyfuse 6V 1.5A             R_1206_HandSoldering                    NANOSMDC075F-2CT-ND  
+L1        Ferrite_Bead 2.5k            C_0603_HandSoldering                    445-2179-1-ND
+OSC1      ASEMB-12.000MHZ-LC-T MEMS    FA-328_Crystal_Pads                     535-11744-1-ND
+P1        Shrouded Header 2x5          0.100 Inch 
+P2        USB A Connector              Through Hole                            609-4965-ND
+R1        100k                         R_0603_HandSoldering
+R2        100                          R_0603_HandSoldering                    
+R3        100                          R_0603_HandSoldering                    
+R4        10k                          R_0603_HandSoldering
+R5        10k                          R_0603_HandSoldering
+R6        33                           R_0603_HandSoldering                    
+R7        33                           R_0603_HandSoldering                    
+U1        TLV75533PDBVR                SOT-23-5
+U2        74HC4050                     SO-16-N                                 
+U3        MAX3421E                     LQFP-32_5x5mm_Pitch0.5mm                    
+Z1        ZENER_4_CHANNEL uClamp0504A  SOT-666                                 UCLAMP0504ACT-ND
+

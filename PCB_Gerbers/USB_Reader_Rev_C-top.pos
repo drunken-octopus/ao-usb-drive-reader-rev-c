@@ -1,0 +1,31 @@
+### Module positions - created on Fri Dec 28 13:33:48 2018 ###
+### Printed by Pcbnew version kicad 4.0.5+dfsg1-4
+## Unit = inches, Angle = deg.
+## Side : top
+# Ref     Val                          Package                                    PosX       PosY       Rot  Side
+C1        10uF                         TantalC_SizeD_EIA-7343_HandSoldering     1.0200    -1.2700  180.0000  top
+C2        0.1uF                        C_0603_HandSoldering                     1.6900    -1.2700    0.0000  top
+C3        33uF                         TantalC_SizeD_EIA-7343_HandSoldering     1.0200    -1.0700  180.0000  top
+C4        0.1uF                        C_0603_HandSoldering                     1.7000    -0.5000    0.0000  top
+C5        0.1uF                        C_0603_HandSoldering                     1.2200    -0.5300   90.0000  top
+C6        0.1uF                        C_0603_HandSoldering                     1.7000    -0.5800    0.0000  top
+C7        0.1uF                        C_0603_HandSoldering                     1.4800    -0.3000    0.0000  top
+C8        0.1uF                        C_0603_HandSoldering                     2.4000    -1.3250  180.0000  top
+F1        Polyfuse                     R_1206_HandSoldering                     2.4000    -1.1500    0.0000  top
+L1        Ferrite_Bead                 C_0603_HandSoldering                     2.4000    -1.2500  180.0000  top
+OSC1      Oscillator                   FA-328_Crystal                           1.4862    -0.4106    0.0000  top
+R1        100k                         R_0603_HandSoldering                     1.4000    -1.2700    0.0000  top
+R2        100                          R_0603_HandSoldering                     0.5500    -0.9000  180.0000  top
+R3        100                          R_0603_HandSoldering                     0.7500    -0.9600  180.0000  top
+R4        10k                          R_0603_HandSoldering                     1.2800    -0.4200    0.0000  top
+R5        10k                          R_0603_HandSoldering                     1.1000    -0.4200  180.0000  top
+R6        33                           R_0603_HandSoldering                     1.7700    -0.7500  180.0000  top
+R7        33                           R_0603_HandSoldering                     1.7700    -0.6500  180.0000  top
+U1        TLV75533                     SOT-23-5                                 1.5400    -1.1400   90.0000  top
+U2        74HC4050                     SO-16-N                                  0.9500    -0.6500  180.0000  top
+U3        MAX3421E                     LQFP-32_5x5mm_Pitch0.5mm                 1.4250    -0.7000    0.0000  top
+Z1        ZENER_4_CHANNEL              SOT-666                                  1.9500    -0.7000   90.0000  top
+Fiducial                                                                        0.4000    -0.2000
+Fiducial                                                                        1.7000    -1.0000
+Fiducial                                                                        2.2000    -0.2000
+## End
