@@ -3,7 +3,7 @@
   (general
     (links 68)
     (no_connects 0)
-    (area 120.221904 82.03588 200.343215 119.455001)
+    (area 126.924999 83.744999 193.115001 119.455001)
     (thickness 1.6)
     (drawings 11)
     (tracks 244)
@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory USB_Reader_Gerbers_Rev_C/))
+      (outputdirectory ../PCB_Gerbers/))
   )
 
   (net 0 "")
@@ -268,6 +268,7 @@
   (module AO_Parts:FA-328_Crystal (layer F.Cu) (tedit 5C264B10) (tstamp 5C0FE63B)
     (at 164.75 94.25)
     (path /5C0FEB81)
+    (attr smd)
     (fp_text reference OSC1 (at 4.668 -1.032) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
@@ -1147,6 +1148,7 @@
     (at 188 87.4)
     (descr "Symbol, OSHW-Logo, Silk Screen,")
     (tags "Symbol, OSHW-Logo, Silk Screen,")
+    (attr smd)
     (fp_text reference REF** (at 0.09906 -4.38912) (layer F.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
